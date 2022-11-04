@@ -1,4 +1,4 @@
-describe('h1 text', () => {
+describe('h1 content', () => {
   it('h1 text equals expected', () => {
     cy.visit('/');
 
